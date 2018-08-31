@@ -1,0 +1,2 @@
+http://localhost:8251/sk1601ssh/personMyAction.action
+http://localhost:8251/sk1601ssh/personAction_getPersonInfo.action
